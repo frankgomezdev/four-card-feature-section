@@ -43,6 +43,7 @@ html {
 body {
     margin: 0;
     padding-block-end: 5rem;
+    background-color: var(--clr-light-grey);
 }
 
 img, picture, video, canvas, svg {
